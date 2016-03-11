@@ -1,0 +1,10 @@
+{
+  "name": "Branch",
+  "version": "0.0.1",
+  "repository": "mattscamp/branch",
+  "description": "A Virtual DOM",
+  "main": "index.js",
+  "devDependencies": {
+    "jshint": "~2.5.11",
+  }
+}
